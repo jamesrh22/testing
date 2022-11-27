@@ -1,0 +1,28 @@
+Food Categories
+Option 0
+Option 1
+Option 2
+Option 3
+Option 4
+0.00
+Drinks
+Placeholder
+Water
+Pepsi
+Sprite
+Gatorade
+3.00
+Snacks
+Placeholder
+M&M's
+Skittles
+Snickers
+Kit Kat
+2.75
+Food
+Placeholder
+Popcorn
+Nachos
+Hot Dog
+Fries
+5.00
